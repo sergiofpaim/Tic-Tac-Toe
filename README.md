@@ -6,6 +6,7 @@ Pre-College study #2
 This game was my second coding exercise, it was created to help me understand loops and arrays in C#.
 ## Previous stage
 I had just created a Rock Paper Scissors game.
+
 [Rock Paper Scissors Game](https://github.com/sergiofpaim/Rock-Paper-Scissors)
 ### Challenge 
 My challenge was to create my own Tic-Tac-Toe game from scratch and understand how to manage arrays and start using Lists in C#.
