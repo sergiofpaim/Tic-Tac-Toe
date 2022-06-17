@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace TicTacToe
+﻿namespace TicTacToe
 {
     public enum BoardValue
     {

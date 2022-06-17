@@ -56,9 +56,9 @@
             // 
             this.gameName.AutoSize = true;
             this.gameName.Font = new System.Drawing.Font("Segoe UI Emoji", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.gameName.Location = new System.Drawing.Point(93, 18);
+            this.gameName.Location = new System.Drawing.Point(113, 21);
             this.gameName.Name = "gameName";
-            this.gameName.Size = new System.Drawing.Size(159, 33);
+            this.gameName.Size = new System.Drawing.Size(125, 27);
             this.gameName.TabIndex = 0;
             this.gameName.Text = "TIC-TAC-TOE";
             // 
@@ -186,7 +186,7 @@
             this.winner.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.winner.Location = new System.Drawing.Point(137, 63);
             this.winner.Name = "winner";
-            this.winner.Size = new System.Drawing.Size(0, 31);
+            this.winner.Size = new System.Drawing.Size(0, 25);
             this.winner.TabIndex = 13;
             // 
             // about
